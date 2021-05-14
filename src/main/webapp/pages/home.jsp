@@ -11,6 +11,6 @@
     <title>hello</title>
 </head>
 <body>
-<h2>Hello JAVA</h2>
+<h2>Hello ${name}</h2>
 </body>
 </html>
