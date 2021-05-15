@@ -11,6 +11,6 @@
     <title>hello</title>
 </head>
 <body>
-<h2>Hello ${name}</h2>
+<h2>Hello ${obj.aid},${obj.aname},${obj.lang}</h2>
 </body>
 </html>
